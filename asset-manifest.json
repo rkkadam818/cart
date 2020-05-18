@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rkkadam818/cart/static/css/main.0f41ecb2.chunk.css",
+    "main.js": "/rkkadam818/cart/static/js/main.0ccfb6f3.chunk.js",
+    "main.js.map": "/rkkadam818/cart/static/js/main.0ccfb6f3.chunk.js.map",
+    "runtime-main.js": "/rkkadam818/cart/static/js/runtime-main.835bb548.js",
+    "runtime-main.js.map": "/rkkadam818/cart/static/js/runtime-main.835bb548.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/rkkadam818/cart/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.4b5c9464.chunk.js": "/rkkadam818/cart/static/js/2.4b5c9464.chunk.js",
+    "static/js/2.4b5c9464.chunk.js.map": "/rkkadam818/cart/static/js/2.4b5c9464.chunk.js.map",
+    "index.html": "/rkkadam818/cart/index.html",
+    "precache-manifest.96cfa2fc18c0e5eb131a17a6a1747520.js": "/rkkadam818/cart/precache-manifest.96cfa2fc18c0e5eb131a17a6a1747520.js",
+    "service-worker.js": "/rkkadam818/cart/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/rkkadam818/cart/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.0f41ecb2.chunk.css.map": "/rkkadam818/cart/static/css/main.0f41ecb2.chunk.css.map",
+    "static/js/2.4b5c9464.chunk.js.LICENSE.txt": "/rkkadam818/cart/static/js/2.4b5c9464.chunk.js.LICENSE.txt",
+    "static/media/product.jpg": "/rkkadam818/cart/static/media/product.12da7c4f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.835bb548.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.4b5c9464.chunk.js",
+    "static/css/main.0f41ecb2.chunk.css",
+    "static/js/main.0ccfb6f3.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.css"],"names":[],"mappings":"AAAA,aACC,UACD,CACA,WACC,sBACD","file":"main.0f41ecb2.chunk.css","sourcesContent":[".product_img{\r\n\twidth: 50px;\r\n}\r\n.minus_btn{\r\n\tmargin: 0.5rem !important;\r\n}"]}
